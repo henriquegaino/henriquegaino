@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hello, I'm Henrique Gaino!<br>🌟 Technology Enthusiast | Web Developer | Automation Lover<br><br>💡 Interests:<br>I’m fascinated by Artificial Intelligence, Automation, and Data Science. In web development, I enjoy transforming ideas into functional and well-structured code.<br><br>📚 My Journey:<br>Although I haven’t formally worked in the tech field yet, I’ve always been a self-taught learner with a deep interest in technology. Through self-study, I’ve developed projects that challenge me to explore new technologies and expand my knowledge. Every line of code is a step closer to mastering programming!<br><br>🚀 Why I'm Here:<br>GitHub is my space to share knowledge and build a network with fellow developers. I’m always open to collaborations, contributions, and learning from the community. Let’s connect, exchange ideas, and grow together on this exciting tech journey!<br><br>⚡ Fun Fact:<br>My passion for technology and automation goes beyond code. I’m always looking for ways to make life more efficient, whether through smart devices or writing scripts to automate tasks! Outside of coding, I also love my cats, music, musical instruments, and nature.<br><br>
 
-<!--
-**henriquegaino/henriquegaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+Languages I master: 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Contact:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henrique_gaino)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-morais-gaino-8b5b8317a/)<br>Email: hmgaino@gmail.com
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=henriquegaino&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=henriquegaino&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegaino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
